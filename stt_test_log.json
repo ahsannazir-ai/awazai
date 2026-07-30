@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Clip 1.mp3",
+    "asal_urdu": "Assalam o alaikum, mujhe kal sham Dr. Kamran se appointment chahiye",
+    "whisper_ne_suna": "اسلام علیکم مجھے کل شام ڈاکٹر کامرن سے اپوائنٹمنٹ چاہیے",
+    "timestamp": "2026-07-30T09:32:35.271053"
+  },
+  {
+    "file": "Clip 2.mp3",
+    "asal_urdu": "Appointment chahiye for tomorrow, evening slot available hai?",
+    "whisper_ne_suna": "اپوائنٹمنٹ چاہیے کھانے کے لئے ایوننگ سلوٹ آفیلی بلیبل ہے",
+    "timestamp": "2026-07-30T09:32:36.783862"
+  },
+  {
+    "file": "Clip 3.mp3",
+    "asal_urdu": "[Tez bolna] Assalam o alaikum, mujhe kal sham Dr. Kamran se appointment chahiye",
+    "whisper_ne_suna": "اپارمنٹ چاہیے مجھے for tomorrow evening slot available ہے کیا",
+    "timestamp": "2026-07-30T09:32:38.079829"
+  },
+  {
+    "file": "Clip 4.mp3",
+    "asal_urdu": "[Shor ke saath] Assalam o alaikum, mujhe kal sham Dr. Kamran se appointment chahiye",
+    "whisper_ne_suna": "اسلام علیکم! ہوتے کل شام ڈاکٹر کامران سے اپرنمنٹ چاہیے",
+    "timestamp": "2026-07-30T09:32:40.445822"
+  },
+  {
+    "file": "Clip 5.mp3",
+    "asal_urdu": "[Kisi aur ki awaaz] Mujhe appointment chahiye Dr. Sadia ke saath",
+    "whisper_ne_suna": "ہیلو مجھے کل شام ڈاکٹر کامرن سے اپائنمنٹ چاہیے",
+    "timestamp": "2026-07-30T09:32:41.289863"
+  },
+  {
+    "file": "Clip 6.mp3",
+    "asal_urdu": "Mera phone number zero-three-double-zero, four-four-five-five, six-six-seven hai. Sham 7 baje thik hai.",
+    "whisper_ne_suna": "میرے فون نمبر زیرو تھیری ڈبل زیرو فور فور فائیو فائیو سکس سکس سیمن ہے شام سات بجی ٹھیک ہے",
+    "timestamp": "2026-07-30T09:32:43.692825"
+  }
+]
